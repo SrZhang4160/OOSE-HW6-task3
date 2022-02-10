@@ -1,1 +1,2 @@
-# OOSE-HW6-task3
+Shuran Zhang
+EN.601.421/621 Object-Oriented Software Engineering
